@@ -1,0 +1,31 @@
+.head{
+width:100%;
+}
+.head h3{
+display:inline;
+}
+.head button{
+float:right;
+border:2px solid lightblue;
+}
+.Mario{
+width:100%;
+}
+#Player{
+font-size:22px;
+}
+h4{
+background-color:red;
+margin:0px;
+line-height:2;
+}
+.instruction_image{
+width:45%;
+display:inline-block;
+}
+video{
+    background:url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding:70px;
+}
